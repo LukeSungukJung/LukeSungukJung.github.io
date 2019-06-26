@@ -5,3 +5,5 @@
   <li>AI & Full-Stack developer</li>
   <li>He loves Rainbow Six-Siege</li>
  </div>
+
+<p><strong>Fixing</strong></p>
